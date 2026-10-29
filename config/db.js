@@ -1,6 +1,3 @@
-// Central MySQL connection pool.
-// Every route imports `pool` from here instead of opening its own connection.
-
 const mysql = require('mysql2/promise');
 require('dotenv').config();
 
@@ -12,7 +9,10 @@ const pool = mysql.createPool({
   database: process.env.DB_NAME || 'krishimap',
   waitForConnections: true,
   connectionLimit: 10,
-  queueLimit: 0
+  queueLimit: 0,
+  ssl: process.env.DB_SSL === 'true'
+    ? { minVersion: 'TLSv1.2', rejectUnauthorized: true }
+    : undefined
 });
 
 module.exports = pool;
