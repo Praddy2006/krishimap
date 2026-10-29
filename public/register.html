@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>KrishiMap — Register</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/auth-theme.css" />
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wordmark">Krishi<span class="accent-italic">Map</span></div>
+</header>
+
+<main class="hero">
+  <div class="hero-copy">
+    <h1>Grow with <em>data.</em></h1>
+    <p class="sub">Create an account to start exploring soil, crop, and climate insights across every Indian state.</p>
+    <svg class="sprout" viewBox="0 0 100 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M50 118V60" stroke="#15171a" stroke-width="4" stroke-linecap="round"/>
+      <path d="M50 62C50 62 20 55 20 25C20 25 55 20 50 62Z" fill="#F6851B"/>
+      <path d="M50 70C50 70 80 60 80 30C80 30 45 28 50 70Z" fill="#15171a"/>
+    </svg>
+  </div>
+
+  <div class="auth-card">
+    <h2>Create account</h2>
+    <form id="registerForm">
+      <label for="name">Full name</label>
+      <input type="text" id="name" required />
+
+      <label for="email">Email</label>
+      <input type="email" id="email" required />
+
+      <label for="password">Password</label>
+      <input type="password" id="password" minlength="6" required />
+
+      <button type="submit" class="btn-primary">Create account</button>
+    </form>
+
+    <div id="msg"></div>
+
+    <div class="switch-link">
+      Already have an account? <a href="login.html">Log in</a>
+    </div>
+  </div>
+</main>
+
+<script>
+document.getElementById('registerForm').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const name = document.getElementById('name').value;
+  const email = document.getElementById('email').value;
+  const password = document.getElementById('password').value;
+  const msg = document.getElementById('msg');
+  msg.className = ''; msg.textContent = '';
+
+  try {
+    const res = await fetch('/api/auth/register', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ name, email, password })
+    });
+    const data = await res.json();
+
+    if (!res.ok) {
+      msg.className = 'error';
+      msg.textContent = data.error || 'Registration failed.';
+      return;
+    }
+
+    msg.className = 'success';
+    msg.textContent = 'Account created. Redirecting to login...';
+    setTimeout(() => { window.location.href = 'login.html'; }, 1200);
+  } catch (err) {
+    msg.className = 'error';
+    msg.textContent = 'Could not reach the server. Is it running?';
+  }
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,1168 @@
+{
+  "Thane": {
+    "region": "Konkan",
+    "primary_crop": "Rice",
+    "crops": [
+      "Rice",
+      "Nachni (finger millet)",
+      "Vegetables",
+      "Banana"
+    ],
+    "soil": "Laterite and coastal alluvial soils; medium black in some pockets",
+    "rainfall": "Very high, roughly 2,000-2,500 mm",
+    "irrigation": "Ulhas, Vaitarna and Bhatsa rivers; mostly rain-fed paddy",
+    "kharif": [
+      "Rice",
+      "Nachni"
+    ],
+    "rabi": [
+      "Val (field bean)",
+      "Pulses",
+      "Vegetables"
+    ],
+    "horticulture": [
+      "Vegetables",
+      "Banana",
+      "Mango"
+    ],
+    "special": "Heavily urbanised; farming survives mainly in the interior and tribal belts",
+    "challenges": "Land loss to urbanisation, flooding in the monsoon",
+    "notes": "Paddy is grown in the monsoon on small holdings, with vegetables supplying the Mumbai market."
+  },
+  "Palghar": {
+    "region": "Konkan",
+    "primary_crop": "Rice",
+    "crops": [
+      "Rice",
+      "Chikoo",
+      "Coconut",
+      "Mango",
+      "Flowers"
+    ],
+    "soil": "Coastal alluvial and laterite; medium black in parts",
+    "rainfall": "Very high, roughly 2,000-2,500 mm",
+    "irrigation": "Vaitarna and Surya rivers; rain-fed paddy with some well irrigation",
+    "kharif": [
+      "Rice",
+      "Nachni"
+    ],
+    "rabi": [
+      "Val",
+      "Vegetables"
+    ],
+    "horticulture": [
+      "Chikoo (sapota)",
+      "Coconut",
+      "Mango",
+      "Flowers"
+    ],
+    "special": "Dahanu-Gholvad chikoo has a GI tag",
+    "challenges": "Cyclone and coastal erosion risk; tribal-area food security",
+    "notes": "Newer district carved out of Thane in 2014. Dahanu is known for chikoo orchards and flower farming."
+  },
+  "Raigad": {
+    "region": "Konkan",
+    "primary_crop": "Rice",
+    "crops": [
+      "Rice",
+      "Mango",
+      "Coconut",
+      "Cashew",
+      "Betel nut"
+    ],
+    "soil": "Laterite and coastal soils; red lateritic on hill slopes",
+    "rainfall": "Very high, roughly 2,500-3,500 mm",
+    "irrigation": "Kundalika, Savitri and Patalganga rivers; rain-fed paddy",
+    "kharif": [
+      "Rice",
+      "Nachni"
+    ],
+    "rabi": [
+      "Val",
+      "Pulses",
+      "Vegetables"
+    ],
+    "horticulture": [
+      "Mango",
+      "Coconut",
+      "Cashew",
+      "Betel nut (supari)"
+    ],
+    "special": "Alibag white onion has a GI tag",
+    "challenges": "Soil erosion on slopes, salinity near the creeks",
+    "notes": "Coastal agriculture of paddy and orchards, with white onion grown around Alibag."
+  },
+  "Ratnagiri": {
+    "region": "Konkan",
+    "primary_crop": "Mango",
+    "crops": [
+      "Mango",
+      "Rice",
+      "Cashew",
+      "Kokum",
+      "Coconut"
+    ],
+    "soil": "Laterite soils, shallow and acidic, poor in organic matter",
+    "rainfall": "Very high, roughly 3,000-3,500 mm",
+    "irrigation": "Shastri, Vashishti and Kajvi rivers; mostly rain-fed",
+    "kharif": [
+      "Rice",
+      "Nachni"
+    ],
+    "rabi": [
+      "Val",
+      "Pulses",
+      "Groundnut"
+    ],
+    "horticulture": [
+      "Alphonso (Hapus) mango",
+      "Cashew",
+      "Kokum",
+      "Coconut"
+    ],
+    "special": "Ratnagiri Hapus (Alphonso) mango has a GI tag",
+    "challenges": "Mango flowering is hit by unseasonal rain, steep terrain limits irrigation",
+    "notes": "The heart of Alphonso mango production, with orchards on terraced laterite slopes."
+  },
+  "Sindhudurg": {
+    "region": "Konkan",
+    "primary_crop": "Mango",
+    "crops": [
+      "Mango",
+      "Cashew",
+      "Rice",
+      "Kokum",
+      "Coconut"
+    ],
+    "soil": "Laterite and red soils, acidic",
+    "rainfall": "Very high, roughly 3,000-3,500 mm or more",
+    "irrigation": "Karli, Gad and Terekhol rivers; rain-fed with small check dams",
+    "kharif": [
+      "Rice",
+      "Nachni"
+    ],
+    "rabi": [
+      "Val",
+      "Groundnut",
+      "Pulses"
+    ],
+    "horticulture": [
+      "Devgad mango",
+      "Cashew (Vengurla)",
+      "Kokum",
+      "Coconut",
+      "Jackfruit"
+    ],
+    "special": "Devgad mango and Vengurla cashew are well known",
+    "challenges": "Climate-sensitive mango yield; fragmented holdings",
+    "notes": "Maharashtra's southern Konkan district, known for horticulture and cashew processing."
+  },
+  "Mumbai City": {
+    "region": "Konkan",
+    "primary_crop": "None (urban)",
+    "crops": [],
+    "soil": "Reclaimed coastal land; saline and built-up",
+    "rainfall": "High, roughly 2,000-2,400 mm",
+    "irrigation": "Municipal water supply",
+    "kharif": [],
+    "rabi": [],
+    "horticulture": [],
+    "special": "Fully urban, with no meaningful farmland",
+    "challenges": "Not applicable",
+    "notes": "Included so the map is complete; it has negligible agriculture."
+  },
+  "Mumbai Suburban": {
+    "region": "Konkan",
+    "primary_crop": "None (urban)",
+    "crops": [],
+    "soil": "Coastal and built-up; some marshy land",
+    "rainfall": "High, roughly 2,000-2,400 mm",
+    "irrigation": "Municipal water supply",
+    "kharif": [],
+    "rabi": [],
+    "horticulture": [],
+    "special": "Fully urban, with negligible farmland",
+    "challenges": "Not applicable",
+    "notes": "Almost no agriculture beyond small urban or community gardens."
+  },
+  "Nashik": {
+    "region": "North Maharashtra",
+    "primary_crop": "Grapes",
+    "crops": [
+      "Grapes",
+      "Onion",
+      "Pomegranate",
+      "Tomato",
+      "Rice",
+      "Wheat"
+    ],
+    "soil": "Medium to deep black (basalt) in the east; shallow and red-brown in the western hills",
+    "rainfall": "Varies widely: about 500 mm in the east to over 2,500 mm in Igatpuri-Peth-Surgana",
+    "irrigation": "Godavari, Girna and Darna rivers; Gangapur and Darna dams; extensive drip irrigation",
+    "kharif": [
+      "Rice (west)",
+      "Soybean",
+      "Bajra",
+      "Maize",
+      "Tomato"
+    ],
+    "rabi": [
+      "Wheat",
+      "Gram",
+      "Onion"
+    ],
+    "horticulture": [
+      "Grapes",
+      "Onion",
+      "Pomegranate",
+      "Tomato"
+    ],
+    "special": "Nashik grapes have a GI tag, and Lasalgaon is a major onion market",
+    "challenges": "Hailstorms and unseasonal rain damage grapes, and onion prices swing",
+    "notes": "India's wine-grape capital, with a mix of horticulture and cash crops."
+  },
+  "Dhule": {
+    "region": "North Maharashtra",
+    "primary_crop": "Cotton",
+    "crops": [
+      "Cotton",
+      "Bajra",
+      "Jowar",
+      "Maize",
+      "Onion"
+    ],
+    "soil": "Medium black and shallow soils",
+    "rainfall": "Low, roughly 550-700 mm",
+    "irrigation": "Tapi, Panzara and Burai rivers; many small irrigation projects",
+    "kharif": [
+      "Cotton",
+      "Bajra",
+      "Jowar",
+      "Maize",
+      "Groundnut"
+    ],
+    "rabi": [
+      "Wheat",
+      "Gram",
+      "Jowar"
+    ],
+    "horticulture": [
+      "Onion",
+      "Vegetables"
+    ],
+    "special": "Dry cotton and millet belt in north-west Maharashtra",
+    "challenges": "Low and erratic rainfall, groundwater depletion",
+    "notes": "A dry-farming district where cotton and millets dominate, with onions on irrigated land."
+  },
+  "Nandurbar": {
+    "region": "North Maharashtra",
+    "primary_crop": "Cotton",
+    "crops": [
+      "Cotton",
+      "Jowar",
+      "Maize",
+      "Chilli",
+      "Mango"
+    ],
+    "soil": "Medium black and shallow soils at the foot of the Satpura hills",
+    "rainfall": "Moderate, roughly 700-1,000 mm",
+    "irrigation": "Tapi and Narmada rivers; Shivan and other small projects",
+    "kharif": [
+      "Cotton",
+      "Jowar",
+      "Maize",
+      "Tur",
+      "Rice (hills)"
+    ],
+    "rabi": [
+      "Wheat",
+      "Gram"
+    ],
+    "horticulture": [
+      "Chilli",
+      "Mango",
+      "Vegetables"
+    ],
+    "special": "Nandurbar is a major chilli trading centre",
+    "challenges": "Tribal-area poverty, uneven irrigation",
+    "notes": "A tribal district in the north-west where cotton and chilli are the main cash crops."
+  },
+  "Jalgaon": {
+    "region": "North Maharashtra",
+    "primary_crop": "Banana",
+    "crops": [
+      "Banana",
+      "Cotton",
+      "Maize",
+      "Jowar",
+      "Brinjal"
+    ],
+    "soil": "Deep black soils of the Tapi valley (alluvial and black)",
+    "rainfall": "Moderate, roughly 600-800 mm",
+    "irrigation": "Tapi, Girna and Purna rivers; Hatnur dam; widespread drip irrigation",
+    "kharif": [
+      "Cotton",
+      "Jowar",
+      "Maize",
+      "Soybean",
+      "Bajra"
+    ],
+    "rabi": [
+      "Wheat",
+      "Gram",
+      "Maize"
+    ],
+    "horticulture": [
+      "Banana",
+      "Brinjal",
+      "Mango"
+    ],
+    "special": "Banana belt of India; Jalgaon Bharit brinjal has a GI tag",
+    "challenges": "Summer heat waves and cold-wave damage to banana, water stress",
+    "notes": "Famous for tissue-culture banana, which is exported from here."
+  },
+  "Ahilyanagar": {
+    "region": "Western Maharashtra",
+    "primary_crop": "Sugarcane",
+    "crops": [
+      "Sugarcane",
+      "Bajra",
+      "Onion",
+      "Pomegranate",
+      "Soybean",
+      "Tur"
+    ],
+    "soil": "Medium to deep black soils; shallow in the drier east",
+    "rainfall": "Mixed, roughly 400-600 mm in the east to about 1,000 mm in Akole",
+    "irrigation": "Godavari, Pravara and Mula rivers; Bhandardara and Mula dams",
+    "kharif": [
+      "Bajra",
+      "Soybean",
+      "Cotton",
+      "Tur",
+      "Jowar"
+    ],
+    "rabi": [
+      "Jowar (rabi)",
+      "Wheat",
+      "Gram",
+      "Onion"
+    ],
+    "horticulture": [
+      "Pomegranate",
+      "Onion",
+      "Mosambi"
+    ],
+    "special": "Cooperative sugar factories and the agricultural university at Rahuri",
+    "challenges": "Drought in the east, unequal water sharing",
+    "notes": "Formerly Ahmednagar. It is Maharashtra's largest district by area, with a sugar-cooperative belt."
+  },
+  "Pune": {
+    "region": "Western Maharashtra",
+    "primary_crop": "Sugarcane",
+    "crops": [
+      "Sugarcane",
+      "Bajra",
+      "Onion",
+      "Grapes",
+      "Vegetables",
+      "Flowers"
+    ],
+    "soil": "Medium to deep black in valleys; shallow and red in the hills and ghat areas",
+    "rainfall": "Wide range: about 400-500 mm in the east to over 2,000 mm in the western ghats",
+    "irrigation": "Bhima, Mula-Mutha, Indrayani and Nira rivers; Khadakwasla and Pawna dams",
+    "kharif": [
+      "Bajra",
+      "Rice (west)",
+      "Soybean",
+      "Groundnut",
+      "Maize"
+    ],
+    "rabi": [
+      "Wheat",
+      "Jowar",
+      "Gram",
+      "Onion"
+    ],
+    "horticulture": [
+      "Grapes",
+      "Pomegranate",
+      "Vegetables",
+      "Flowers (polyhouse)",
+      "Fig"
+    ],
+    "special": "Known for Ambemohar and Indrayani rice (Maval-Mulshi) and Purandar figs",
+    "challenges": "Peri-urban land pressure, uneven rainfall",
+    "notes": "Mixed farming: sugarcane in the Nira-Bhima belt, rice in the west, and flowers and vegetables near the city."
+  },
+  "Satara": {
+    "region": "Western Maharashtra",
+    "primary_crop": "Sugarcane",
+    "crops": [
+      "Sugarcane",
+      "Rice",
+      "Groundnut",
+      "Jowar",
+      "Strawberry",
+      "Ginger"
+    ],
+    "soil": "Deep black along the Krishna; red and laterite on the western ghats",
+    "rainfall": "Extreme range: about 400-500 mm in the east to several thousand mm at Mahabaleshwar",
+    "irrigation": "Krishna, Koyna, Venna and Yerala rivers; Koyna dam",
+    "kharif": [
+      "Rice (west)",
+      "Jowar",
+      "Bajra",
+      "Groundnut",
+      "Soybean"
+    ],
+    "rabi": [
+      "Wheat",
+      "Jowar",
+      "Gram"
+    ],
+    "horticulture": [
+      "Strawberry",
+      "Ginger",
+      "Raspberry",
+      "Vegetables"
+    ],
+    "special": "Mahabaleshwar strawberry has a GI tag",
+    "challenges": "Drought in the eastern talukas (Man, Khatav), landslides in the west",
+    "notes": "Strawberries in the hills and sugarcane and groundnut in the plains."
+  },
+  "Sangli": {
+    "region": "Western Maharashtra",
+    "primary_crop": "Sugarcane",
+    "crops": [
+      "Sugarcane",
+      "Grapes",
+      "Turmeric",
+      "Pomegranate",
+      "Banana",
+      "Jowar"
+    ],
+    "soil": "Medium to deep black (Krishna and Warna); light, shallow soil in drought-prone Jat",
+    "rainfall": "Roughly 400-500 mm in the east to over 1,000 mm in Shirala",
+    "irrigation": "Krishna, Warna and Yerala rivers; Tembhu and Mhaisal lift schemes",
+    "kharif": [
+      "Jowar",
+      "Bajra",
+      "Soybean",
+      "Groundnut",
+      "Rice (Shirala)"
+    ],
+    "rabi": [
+      "Jowar",
+      "Wheat",
+      "Gram"
+    ],
+    "horticulture": [
+      "Grapes",
+      "Turmeric",
+      "Pomegranate",
+      "Banana"
+    ],
+    "special": "A major turmeric market, and Tasgaon is known for grapes and raisins (bedana)",
+    "challenges": "Floods along the Krishna, drought in Jat and Atpadi",
+    "notes": "Sugarcane in the river valley, and grapes and turmeric as high-value crops."
+  },
+  "Solapur": {
+    "region": "Western Maharashtra",
+    "primary_crop": "Jowar",
+    "crops": [
+      "Jowar",
+      "Pomegranate",
+      "Sugarcane",
+      "Grapes",
+      "Tur",
+      "Onion"
+    ],
+    "soil": "Deep black (Bhima and Sina valleys); shallow light soils in the west",
+    "rainfall": "Low, roughly 500-600 mm (scarcity zone)",
+    "irrigation": "Bhima and Sina rivers; Ujani dam is the lifeline",
+    "kharif": [
+      "Tur",
+      "Bajra",
+      "Soybean",
+      "Maize"
+    ],
+    "rabi": [
+      "Jowar (rabi, Maldandi)",
+      "Wheat",
+      "Gram",
+      "Safflower"
+    ],
+    "horticulture": [
+      "Pomegranate",
+      "Grapes",
+      "Custard apple",
+      "Onion"
+    ],
+    "special": "Solapur pomegranate has a GI tag, and the district is one of the top pomegranate exporters",
+    "challenges": "Chronic water scarcity, rain-fed rabi sowing depends on soil moisture",
+    "notes": "A dry district where rabi jowar and drip-irrigated pomegranate are the signature crops."
+  },
+  "Kolhapur": {
+    "region": "Western Maharashtra",
+    "primary_crop": "Sugarcane",
+    "crops": [
+      "Sugarcane",
+      "Rice",
+      "Groundnut",
+      "Soybean",
+      "Jowar",
+      "Vegetables"
+    ],
+    "soil": "Deep black along the rivers; laterite and red soils in the west",
+    "rainfall": "Roughly 600 mm in the east to 2,500 mm or more in the west (Gaganbawda higher)",
+    "irrigation": "Krishna, Panchganga, Warna and Dudhganga rivers; Radhanagari dam",
+    "kharif": [
+      "Rice",
+      "Soybean",
+      "Groundnut",
+      "Jowar",
+      "Nachni (hills)"
+    ],
+    "rabi": [
+      "Jowar",
+      "Wheat",
+      "Gram"
+    ],
+    "horticulture": [
+      "Vegetables",
+      "Mango",
+      "Banana"
+    ],
+    "special": "Kolhapuri jaggery (gul) and cooperative sugar factories",
+    "challenges": "Floods (2019 and 2021), pest pressure on sugarcane",
+    "notes": "Among the highest-yielding sugarcane districts, with a fertile Krishna-Panchganga basin."
+  },
+  "Chhatrapati Sambhajinagar": {
+    "region": "Marathwada",
+    "primary_crop": "Cotton",
+    "crops": [
+      "Cotton",
+      "Maize",
+      "Bajra",
+      "Mosambi",
+      "Mango",
+      "Tur"
+    ],
+    "soil": "Medium black; shallow in the hilly areas",
+    "rainfall": "Low to moderate, roughly 650-750 mm",
+    "irrigation": "Godavari river; Jayakwadi dam (Paithan) and canals",
+    "kharif": [
+      "Cotton",
+      "Maize",
+      "Bajra",
+      "Tur",
+      "Soybean"
+    ],
+    "rabi": [
+      "Jowar",
+      "Wheat",
+      "Gram"
+    ],
+    "horticulture": [
+      "Mosambi (sweet lime)",
+      "Pomegranate",
+      "Marathwada Kesar mango"
+    ],
+    "special": "Marathwada Kesar mango has a GI tag",
+    "challenges": "Drought, Jayakwadi water-sharing disputes",
+    "notes": "Formerly Aurangabad. Jayakwadi water has made horticulture viable here."
+  },
+  "Jalna": {
+    "region": "Marathwada",
+    "primary_crop": "Cotton",
+    "crops": [
+      "Cotton",
+      "Soybean",
+      "Mosambi",
+      "Tur",
+      "Maize",
+      "Bajra"
+    ],
+    "soil": "Medium to deep black",
+    "rainfall": "Low to moderate, roughly 600-800 mm",
+    "irrigation": "Godavari, Dudhna and Kundalika; Jayakwadi canal is a partial source",
+    "kharif": [
+      "Cotton",
+      "Soybean",
+      "Tur",
+      "Maize",
+      "Bajra"
+    ],
+    "rabi": [
+      "Wheat",
+      "Jowar",
+      "Gram"
+    ],
+    "horticulture": [
+      "Mosambi (sweet lime)",
+      "Pomegranate",
+      "Grapes"
+    ],
+    "special": "A leading mosambi district and known as a seed-industry hub",
+    "challenges": "Frequent droughts, falling groundwater",
+    "notes": "Cotton and soybean on rain-fed land, with mosambi orchards where irrigation is available."
+  },
+  "Beed": {
+    "region": "Marathwada",
+    "primary_crop": "Cotton",
+    "crops": [
+      "Cotton",
+      "Sugarcane",
+      "Soybean",
+      "Jowar",
+      "Custard apple"
+    ],
+    "soil": "Medium black; shallow in the Balaghat hills",
+    "rainfall": "Low, roughly 500-700 mm",
+    "irrigation": "Godavari, Sindphana and Manjara rivers; Majalgaon and Manjara dams",
+    "kharif": [
+      "Cotton",
+      "Soybean",
+      "Tur",
+      "Bajra",
+      "Jowar"
+    ],
+    "rabi": [
+      "Jowar",
+      "Wheat",
+      "Gram"
+    ],
+    "horticulture": [
+      "Custard apple (sitaphal)",
+      "Mosambi",
+      "Pomegranate"
+    ],
+    "special": "Beed is known for custard apple",
+    "challenges": "Drought and farmer distress, seasonal migration of cane cutters",
+    "notes": "A drought-prone district with strong dependence on monsoon rainfall."
+  },
+  "Latur": {
+    "region": "Marathwada",
+    "primary_crop": "Soybean",
+    "crops": [
+      "Soybean",
+      "Tur",
+      "Sugarcane",
+      "Jowar",
+      "Gram"
+    ],
+    "soil": "Medium to deep black",
+    "rainfall": "Moderate, roughly 650-800 mm",
+    "irrigation": "Manjara, Terna and Tawarja rivers; small dams",
+    "kharif": [
+      "Soybean",
+      "Tur",
+      "Moong",
+      "Udid",
+      "Jowar"
+    ],
+    "rabi": [
+      "Gram",
+      "Jowar",
+      "Wheat",
+      "Safflower"
+    ],
+    "horticulture": [
+      "Pomegranate",
+      "Vegetables"
+    ],
+    "special": "A leading soybean and pulses trading and milling hub",
+    "challenges": "Drought and water scarcity (the 2016 water crisis)",
+    "notes": "Soybean-tur system on black soil, with a large agricultural market yard."
+  },
+  "Dharashiv": {
+    "region": "Marathwada",
+    "primary_crop": "Soybean",
+    "crops": [
+      "Soybean",
+      "Tur",
+      "Jowar",
+      "Sugarcane",
+      "Custard apple"
+    ],
+    "soil": "Medium to deep black; shallow in some blocks",
+    "rainfall": "Low to moderate, roughly 600-800 mm",
+    "irrigation": "Terna, Manjara and Sina-Kolegaon; mostly rain-fed",
+    "kharif": [
+      "Soybean",
+      "Tur",
+      "Jowar",
+      "Bajra",
+      "Groundnut"
+    ],
+    "rabi": [
+      "Jowar (rabi)",
+      "Gram",
+      "Wheat"
+    ],
+    "horticulture": [
+      "Custard apple",
+      "Pomegranate",
+      "Vegetables"
+    ],
+    "special": "The Osmanabadi goat breed is from here",
+    "challenges": "Drought-prone with low irrigation coverage",
+    "notes": "Formerly Osmanabad. Mostly rain-fed, with soybean and tur as the staple cash crops."
+  },
+  "Nanded": {
+    "region": "Marathwada",
+    "primary_crop": "Cotton",
+    "crops": [
+      "Cotton",
+      "Soybean",
+      "Banana",
+      "Turmeric",
+      "Tur",
+      "Jowar"
+    ],
+    "soil": "Medium to deep black (Godavari-Manjra basins)",
+    "rainfall": "Moderate, roughly 800-950 mm",
+    "irrigation": "Godavari, Manjra and Penganga rivers; Vishnupuri dam",
+    "kharif": [
+      "Cotton",
+      "Soybean",
+      "Tur",
+      "Jowar",
+      "Moong"
+    ],
+    "rabi": [
+      "Gram",
+      "Wheat",
+      "Jowar"
+    ],
+    "horticulture": [
+      "Banana",
+      "Turmeric",
+      "Sweet lime",
+      "Papaya"
+    ],
+    "special": "Banana and turmeric are important cash crops here",
+    "challenges": "Floods in the Godavari belt and dry spells",
+    "notes": "One of the better-irrigated Marathwada districts thanks to the Vishnupuri project."
+  },
+  "Parbhani": {
+    "region": "Marathwada",
+    "primary_crop": "Cotton",
+    "crops": [
+      "Cotton",
+      "Soybean",
+      "Jowar",
+      "Tur",
+      "Banana"
+    ],
+    "soil": "Medium to deep black",
+    "rainfall": "Moderate, roughly 800-900 mm",
+    "irrigation": "Godavari, Purna and Dudhna rivers; Yeldari dam",
+    "kharif": [
+      "Cotton",
+      "Soybean",
+      "Tur",
+      "Jowar",
+      "Moong"
+    ],
+    "rabi": [
+      "Gram",
+      "Jowar",
+      "Wheat"
+    ],
+    "horticulture": [
+      "Banana",
+      "Sweet lime",
+      "Vegetables"
+    ],
+    "special": "Seat of the Marathwada agricultural university (VNMKV), which developed sorghum varieties such as Parbhani Moti",
+    "challenges": "Dry spells during the monsoon, pest issues in cotton",
+    "notes": "A research-heavy district where jowar breeding is a local strength."
+  },
+  "Hingoli": {
+    "region": "Marathwada",
+    "primary_crop": "Turmeric",
+    "crops": [
+      "Turmeric",
+      "Soybean",
+      "Cotton",
+      "Jowar",
+      "Tur"
+    ],
+    "soil": "Medium black and black soils",
+    "rainfall": "Moderate, roughly 800-900 mm",
+    "irrigation": "Penganga, Purna and Kayadhu rivers; Siddheshwar dam",
+    "kharif": [
+      "Soybean",
+      "Cotton",
+      "Tur",
+      "Jowar",
+      "Turmeric"
+    ],
+    "rabi": [
+      "Gram",
+      "Wheat"
+    ],
+    "horticulture": [
+      "Turmeric",
+      "Banana",
+      "Sweet lime"
+    ],
+    "special": "Basmat is a major turmeric market",
+    "challenges": "Price swings for turmeric, dry spells",
+    "notes": "A turmeric-growing district, with soybean and cotton on the rain-fed land."
+  },
+  "Amravati": {
+    "region": "Vidarbha",
+    "primary_crop": "Oranges",
+    "crops": [
+      "Oranges",
+      "Cotton",
+      "Soybean",
+      "Tur",
+      "Wheat"
+    ],
+    "soil": "Deep black (Purna valley); shallow soils in the Melghat hills",
+    "rainfall": "Moderate to high, roughly 800-1,100 mm",
+    "irrigation": "Wardha and Purna rivers; Upper Wardha dam",
+    "kharif": [
+      "Cotton",
+      "Soybean",
+      "Tur",
+      "Jowar"
+    ],
+    "rabi": [
+      "Wheat",
+      "Gram"
+    ],
+    "horticulture": [
+      "Oranges (Morshi, Warud)",
+      "Vegetables"
+    ],
+    "special": "The Warud-Morshi belt is part of the Nagpur mandarin (santra) region",
+    "challenges": "Orange-tree decline, salinity in the Purna valley",
+    "notes": "Cotton and soybean on the plains, and orange orchards around Warud and Morshi."
+  },
+  "Akola": {
+    "region": "Vidarbha",
+    "primary_crop": "Cotton",
+    "crops": [
+      "Cotton",
+      "Soybean",
+      "Tur",
+      "Jowar",
+      "Gram"
+    ],
+    "soil": "Deep black soils; the Purna valley has salt-affected (khaaranpatti) soils",
+    "rainfall": "Moderate, roughly 750-900 mm",
+    "irrigation": "Purna, Morna and Katepurna rivers; Mahan dam",
+    "kharif": [
+      "Cotton",
+      "Soybean",
+      "Tur",
+      "Jowar"
+    ],
+    "rabi": [
+      "Gram",
+      "Wheat"
+    ],
+    "horticulture": [
+      "Oranges (limited)",
+      "Vegetables"
+    ],
+    "special": "Home of Dr. Panjabrao Deshmukh Krishi Vidyapeeth (PDKV)",
+    "challenges": "Soil salinity in the Purna valley, rain-fed risk",
+    "notes": "A cotton-soybean district with an important agricultural university."
+  },
+  "Washim": {
+    "region": "Vidarbha",
+    "primary_crop": "Soybean",
+    "crops": [
+      "Soybean",
+      "Tur",
+      "Cotton",
+      "Jowar",
+      "Gram"
+    ],
+    "soil": "Medium to deep black",
+    "rainfall": "Moderate, roughly 800-900 mm",
+    "irrigation": "Penganga and Katepurna; irrigation is limited",
+    "kharif": [
+      "Soybean",
+      "Tur",
+      "Cotton",
+      "Jowar",
+      "Moong",
+      "Udid"
+    ],
+    "rabi": [
+      "Gram",
+      "Wheat"
+    ],
+    "horticulture": [
+      "Oranges (limited)",
+      "Vegetables"
+    ],
+    "special": "A soybean-tur belt",
+    "challenges": "Mostly rain-fed with low irrigation coverage",
+    "notes": "A small Vidarbha district that depends heavily on the monsoon."
+  },
+  "Buldhana": {
+    "region": "Vidarbha",
+    "primary_crop": "Soybean",
+    "crops": [
+      "Soybean",
+      "Cotton",
+      "Tur",
+      "Jowar",
+      "Maize"
+    ],
+    "soil": "Medium black; shallow upland soils near the Ajanta range",
+    "rainfall": "Low to moderate, roughly 650-800 mm",
+    "irrigation": "Purna, Penganga and Nalganga; Khadakpurna dam",
+    "kharif": [
+      "Soybean",
+      "Cotton",
+      "Tur",
+      "Jowar",
+      "Maize"
+    ],
+    "rabi": [
+      "Gram",
+      "Wheat"
+    ],
+    "horticulture": [
+      "Onion",
+      "Vegetables",
+      "Oranges (limited)"
+    ],
+    "special": "Lonar crater lake, with alkaline soil and water nearby",
+    "challenges": "Dry spells and hailstorms, saline patches",
+    "notes": "A dry district of Vidarbha, mostly rain-fed soybean and cotton."
+  },
+  "Yavatmal": {
+    "region": "Vidarbha",
+    "primary_crop": "Cotton",
+    "crops": [
+      "Cotton",
+      "Soybean",
+      "Tur",
+      "Jowar",
+      "Gram"
+    ],
+    "soil": "Medium to deep black; red and shallow patches in places",
+    "rainfall": "Moderate to high, roughly 900-1,100 mm",
+    "irrigation": "Penganga, Wardha and Arunavati rivers; Bembla and Nilona dams",
+    "kharif": [
+      "Cotton",
+      "Soybean",
+      "Tur",
+      "Jowar"
+    ],
+    "rabi": [
+      "Gram",
+      "Wheat",
+      "Jowar"
+    ],
+    "horticulture": [
+      "Oranges (limited)",
+      "Vegetables"
+    ],
+    "special": "One of the largest cotton-growing districts in the state",
+    "challenges": "Rain-fed cotton risk, pest attacks, farmer indebtedness",
+    "notes": "Cotton dominates the cropping pattern."
+  },
+  "Nagpur": {
+    "region": "Vidarbha",
+    "primary_crop": "Oranges",
+    "crops": [
+      "Oranges",
+      "Cotton",
+      "Soybean",
+      "Wheat",
+      "Rice",
+      "Tur"
+    ],
+    "soil": "Medium to deep black (Wardha-Wainganga basins); red and yellow soils in the east",
+    "rainfall": "Moderate to high, roughly 1,000-1,100 mm",
+    "irrigation": "Wainganga, Kanhan and Pench rivers; Totladoh dam",
+    "kharif": [
+      "Cotton",
+      "Soybean",
+      "Tur",
+      "Rice (east)",
+      "Jowar"
+    ],
+    "rabi": [
+      "Wheat",
+      "Gram"
+    ],
+    "horticulture": [
+      "Oranges (Nagpur mandarin)",
+      "Mosambi",
+      "Vegetables"
+    ],
+    "special": "Nagpur mandarin has a GI tag, and the ICAR Central Citrus Research Institute is located here",
+    "challenges": "Orange decline, hot summers, erratic rainfall",
+    "notes": "Known as the Orange City, with a mix of citrus orchards and cotton-soybean farming."
+  },
+  "Wardha": {
+    "region": "Vidarbha",
+    "primary_crop": "Cotton",
+    "crops": [
+      "Cotton",
+      "Soybean",
+      "Tur",
+      "Wheat",
+      "Gram"
+    ],
+    "soil": "Medium to deep black",
+    "rainfall": "Moderate to high, roughly 1,000-1,100 mm",
+    "irrigation": "Wardha river; Bor, Dham and Lower Wardha projects",
+    "kharif": [
+      "Cotton",
+      "Soybean",
+      "Tur",
+      "Jowar"
+    ],
+    "rabi": [
+      "Wheat",
+      "Gram"
+    ],
+    "horticulture": [
+      "Oranges",
+      "Vegetables"
+    ],
+    "special": "Hinganghat is a major cotton market, and Sevagram is a Gandhian ashram",
+    "challenges": "Cotton pests, rain-fed risk",
+    "notes": "A classic cotton district of Vidarbha."
+  },
+  "Bhandara": {
+    "region": "Vidarbha",
+    "primary_crop": "Rice",
+    "crops": [
+      "Rice",
+      "Wheat",
+      "Gram",
+      "Pulses",
+      "Vegetables"
+    ],
+    "soil": "Medium black; red and yellow loams in parts",
+    "rainfall": "High, roughly 1,100-1,300 mm",
+    "irrigation": "Wainganga river; Gosikhurd project and many old village tanks (malguzari tanks)",
+    "kharif": [
+      "Rice",
+      "Tur"
+    ],
+    "rabi": [
+      "Wheat",
+      "Gram",
+      "Lakh (grass pea)",
+      "Maize"
+    ],
+    "horticulture": [
+      "Vegetables",
+      "Mango"
+    ],
+    "special": "Part of the eastern Vidarbha paddy belt, with scented rice such as Chinoor in places",
+    "challenges": "Flooding of the Wainganga, tank silting",
+    "notes": "Paddy-dominated, with tanks supplying irrigation."
+  },
+  "Gondia": {
+    "region": "Vidarbha",
+    "primary_crop": "Rice",
+    "crops": [
+      "Rice",
+      "Wheat",
+      "Gram",
+      "Maize",
+      "Pulses"
+    ],
+    "soil": "Red and yellow loams; black soil in some blocks",
+    "rainfall": "High, roughly 1,100-1,400 mm",
+    "irrigation": "Wainganga and Bagh rivers; Itiadoh dam and many tanks",
+    "kharif": [
+      "Rice",
+      "Tur",
+      "Maize"
+    ],
+    "rabi": [
+      "Wheat",
+      "Gram",
+      "Lakh",
+      "Vegetables"
+    ],
+    "horticulture": [
+      "Vegetables",
+      "Mango"
+    ],
+    "special": "A major rice-milling hub and the rice bowl of Vidarbha",
+    "challenges": "Dependence on the monsoon, small holdings",
+    "notes": "Rice is the main crop, with many rice mills in the district."
+  },
+  "Chandrapur": {
+    "region": "Vidarbha",
+    "primary_crop": "Rice",
+    "crops": [
+      "Rice",
+      "Cotton",
+      "Soybean",
+      "Tur",
+      "Jowar"
+    ],
+    "soil": "Black soil in the west; red and yellow sandy loam in the east",
+    "rainfall": "High, roughly 1,100-1,400 mm",
+    "irrigation": "Wardha, Wainganga and Penganga rivers; Erai and Asolamendha projects",
+    "kharif": [
+      "Rice",
+      "Cotton",
+      "Soybean",
+      "Tur"
+    ],
+    "rabi": [
+      "Wheat",
+      "Gram",
+      "Jowar"
+    ],
+    "horticulture": [
+      "Vegetables",
+      "Mango"
+    ],
+    "special": "Coal mining and the Tadoba tiger reserve; scented rice in the east",
+    "challenges": "Mining and industrial pollution, human-wildlife conflict",
+    "notes": "Rice in the east and cotton in the west."
+  },
+  "Gadchiroli": {
+    "region": "Vidarbha",
+    "primary_crop": "Rice",
+    "crops": [
+      "Rice",
+      "Tur",
+      "Maize",
+      "Gram",
+      "Forest produce"
+    ],
+    "soil": "Red and yellow lateritic soils; shallow black soil in places",
+    "rainfall": "High, roughly 1,200-1,500 mm",
+    "irrigation": "Wainganga, Pranhita, Indravati and Godavari rivers; mostly tank and rain-fed",
+    "kharif": [
+      "Rice",
+      "Tur",
+      "Maize"
+    ],
+    "rabi": [
+      "Gram",
+      "Wheat",
+      "Vegetables"
+    ],
+    "horticulture": [
+      "Mahua",
+      "Tendu leaves",
+      "Bamboo (forest produce)"
+    ],
+    "special": "A forested tribal district with tendu leaves, bamboo and mahua as livelihoods",
+    "challenges": "Remote and conflict-affected areas, low irrigation",
+    "notes": "Rice and forest produce support rural livelihoods."
+  }
+}

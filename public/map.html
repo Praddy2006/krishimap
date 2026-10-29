@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>KrishiMap</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/maplibre-gl/4.1.2/maplibre-gl.min.css" />
+<link rel="stylesheet" href="css/style.css" />
+<link rel="stylesheet" href="css/map.css" />
+</head>
+<body>
+
+<div id="topbar">
+  <h1>Krishi<span>Map</span></h1>
+    <div class="userinfo">
+    <span id="userLabel"></span>
+    <a href="/api/states/report/all" class="report-link">All states report</a>
+    <a href="/api/states/report/visited" class="report-link">My visited states</a>
+    <button id="logoutBtn">Log out</button>
+  </div>
+</div>
+
+<div id="map"></div>
+
+<!-- NEW: shown only while viewing Maharashtra districts -->
+<button id="backToIndia" class="back-btn" style="display:none;position:absolute;top:68px;left:16px;z-index:20;padding:8px 14px;border-radius:8px;border:1px solid #7cb87a;background:#14261c;color:#fff;font-size:13px;font-weight:600;cursor:pointer;box-shadow:0 4px 12px rgba(0,0,0,0.4)">&larr; Back to India</button>
+
+<div id="hint">Click a state to view its soil report</div>
+<div id="stateTooltip" class="state-tooltip"></div>
+<button id="terrainToggle" class="terrain-toggle">Show Physical terrain</button>
+
+<div id="panel">
+  <button class="close" onclick="closePanel()">&times;</button>
+  <div id="panelBody">
+    <p class="empty">Select a state on the map to see its soil type, crops, and climate.</p>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/maplibre-gl/4.1.2/maplibre-gl.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<script src="js/map.js"></script>
+<script src="js/chatbot.js"></script>
+</body>
+</html>
